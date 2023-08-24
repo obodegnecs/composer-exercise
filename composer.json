@@ -1,0 +1,17 @@
+{
+    "name": "csengedobo/composer-exercise",
+    "description": "This is a n exercise for composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Csengedobo\\ComposerExercise\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Csenge Dobo",
+            "email": "csenge_dobo@epam.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
